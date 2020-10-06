@@ -1,0 +1,13 @@
+.card {
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.card img {
+  height: 150px;
+  width: 95%;
+  margin: 10px auto;
+}
+
+.card:hover {
+  background-color: gray;
+}
